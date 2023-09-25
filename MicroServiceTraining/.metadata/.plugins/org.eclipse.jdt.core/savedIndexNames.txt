@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\Java Demos\MicroServiceTraining\.metadata\.plugins\org.eclipse.jdt.core
+369631200.index
+1145628148.index
+1590816335.index
+1865797976.index
